@@ -1,6 +1,6 @@
-##JWT - SpringBoot - OPENSSL
+## JWT/OAuth2 - SpringBoot Security
 
-###Spring Security/OAuth-2 based JWT token implementation
+### JWT token implementation
 
 
 ### Generate Private Key:
